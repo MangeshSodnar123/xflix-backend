@@ -1,0 +1,5 @@
+##use below lines to add data to mongo database when you are start to test.
+chmod +x setup.sh
+bash setup.sh
+cd backend
+npm run start

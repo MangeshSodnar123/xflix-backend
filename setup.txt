@@ -3,3 +3,6 @@ chmod +x setup.sh
 bash setup.sh
 cd backend
 npm run start
+
+
+MONGODB_URL=mongodb+srv://mangeshsodnar123:Ms@88488611@qkart-node.ncir1hi.mongodb.net/xflix?retryWrites=true&w=majority&appName=qkart-node
